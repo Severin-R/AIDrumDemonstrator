@@ -1,0 +1,4 @@
+ipywidgets
+pytorch-lightning
+pydub
+pyroomacoustics
