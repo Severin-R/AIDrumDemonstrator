@@ -92,7 +92,7 @@ class Crash_Model:
         return model
 
     def _load_model(self):
-        model_dir = os.path.join(root_dir, 'CRASH-master', 'weights', 'weights-143370.pt')
+        model_dir = os.path.join(root_dir, 'CRASH-master', 'weights', 'weights-174090.pt')
         self.device = torch.device('cuda:0')
         model = UNet().to(self.device)
         model = self._load_ema_weights(model, model_dir)
@@ -170,7 +170,7 @@ class WaveGAN_Model:
         saver = tf.train.import_meta_graph(os.path.join(root_dir, "wavegan-master", "train", 'infer', 'infer.meta'))
         self.graph = tf.get_default_graph()
         self.sess = tf.InteractiveSession()
-        saver.restore(self.sess, os.path.join(root_dir, "wavegan-master", "train", 'model.ckpt-7373'))
+        saver.restore(self.sess, os.path.join(root_dir, "wavegan-master", "train", 'model.ckpt-9608'))
 
     def sample(self, cl_idx=0, conditioned=False):
         if cl_idx < 0 or conditioned:
