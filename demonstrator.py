@@ -12,7 +12,6 @@ from google.colab import files
 
 
 from my_models import WaveGAN_Model, Crash_Model, Granular_Synthesis_Model
-test_gen_path = os.path.join(base_path, "neural_granular_synthesis-master/codes/outputs/generations/")
 class_folders = ['Clap', 'Combo', 'Cymbal', 'HandDrum', 'HiHat', 'Kick', 'MalletDrum', 'Metallic', 'Shaker', 'Snare', 'Tom', 'Wooden']
 
 waveGAN = WaveGAN_Model()
