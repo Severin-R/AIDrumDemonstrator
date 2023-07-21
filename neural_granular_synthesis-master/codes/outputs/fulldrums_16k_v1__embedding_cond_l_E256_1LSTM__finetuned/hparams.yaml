@@ -1,0 +1,5 @@
+l_ckpt_file: "/content/drive/MyDrive/Uni Wu\u0308rzburg/Master/Masterarbeit/Codingtest/neural_granular_synthesis-master/codes/outputs/fulldrums_16k_v1__embedding_cond_l_E256_1LSTM/checkpoints/epoch=2199-step=492800.ckpt"
+l_yaml_file: "/content/drive/MyDrive/Uni Wu\u0308rzburg/Master/Masterarbeit/Codingtest/neural_granular_synthesis-master/codes/outputs/fulldrums_16k_v1__embedding_cond_l_E256_1LSTM/hparams.yaml"
+learning_rate: 2.0e-06
+w_ckpt_file: "/content/drive/MyDrive/Uni Wu\u0308rzburg/Master/Masterarbeit/Codingtest/neural_granular_synthesis-master/codes/outputs/fulldrums_16k_v1/checkpoints/epoch=499-step=112000.ckpt"
+w_yaml_file: "/content/drive/MyDrive/Uni Wu\u0308rzburg/Master/Masterarbeit/Codingtest/neural_granular_synthesis-master/codes/outputs/fulldrums_16k_v1/hparams.yaml"
