@@ -2,7 +2,7 @@
 Dies ist das korrespondierende GitHub-Repository zur Masterthesis Synthetic Audio durch KI: Anwendungen, Methoden und Demonstrator. 
 Hier wird der Demonstrator präsentiert. Mit diesem können drei verschiede KI-Modelle zur Generierung neuer Schlagzeugklänge verwendet werden. 
 
-Platz für Bild
+![Demonstrator.png](https://github.com/Severin-R/AIDrumDemonstrator/blob/main/Demonstrator.png "Aufbau Demonstrator")
 
 
 Bitte verwenden Sie das Jupyter-Notebook Demonstrator.ipynb in Google Colab zum Starten des Demonstrators.
