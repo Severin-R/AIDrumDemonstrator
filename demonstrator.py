@@ -37,9 +37,9 @@ data = {
                        ['Number of different Bins:', '4', 'Generierungszeit:', '1.7 ms']],
     'WaveGAN (unconditioned)': [['Inception Score:', '4.5786', 'Frechet Audio Distance:', '7.232'],
                                 ['Number of different Bins:', '4', 'Generierungszeit:', '1.7 ms']],
-    'CRASH (very slow)': [['Inception Score:', '4.0930', 'Frechet Audio Distance:', '12.2863', ' '],
+    'CRASH (very slow)': [['Inception Score:', '4.0930', 'Frechet Audio Distance:', '12.2863'],
                           ['Number of different Bins:', '8', 'Generierungszeit:', '1019,4 ms']],
-    'CRASH (unconditioned)': [['Inception Score:', '4.0930', 'Frechet Audio Distance:', '12.2863', ' '],
+    'CRASH (unconditioned)': [['Inception Score:', '4.0930', 'Frechet Audio Distance:', '12.2863'],
                               ['Number of different Bins:', '8', 'Generierungszeit:', '1019,4 ms']],
 }
 
